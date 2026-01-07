@@ -8,6 +8,10 @@ and scientific computing techniques.
 The projects focus on implementing standard workflows (data preprocessing,
 modeling, evaluation, and visualization) rather than producing deployable systems.
 
+Some experiments in this repository are partial or in-progress and reflect
+iterative exploration rather than finalized analyses. These materials are
+retained to document development processes and learning trajectories.
+
 ---
 
 ## Contents
