@@ -1,1 +1,1 @@
-# exploratory-projects
+# exploratory-coding
